@@ -12,3 +12,9 @@ List of previous trainings, with links to the corresponding branches/tags.
 
 This was the first workshop on how to use containers on CHTC systems.
 
+### CHTC Workshop (Nov 2025)
+
+[Materials](https://github.com/CHTC/tutorial-containers/tree/nov2025)
+
+This will be the second time the workshop is given at CHTC.
+
