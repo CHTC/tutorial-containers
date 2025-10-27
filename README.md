@@ -3,7 +3,7 @@
 This repository contains the materials for a CHTC tutorial.
 
 * The [main branch](https://github.com/CHTC/tutorial-containers/tree/main) is for a general audience.
-* The [HISTORY.md file](HISTORY.md) contains a list of the other versions of this material.
+* The [HISTORY.md file](https://github.com/CHTC/tutorial-containers/blob/main/HISTORY.md) contains a list of the other versions of this material.
 
 You are currently viewing the `feb2025` branch for the training given on Feb. 11, 2025.
 Corresponding slides are available [HERE](https://docs.google.com/presentation/d/10CD4K_xGjFKkOYV-AA0NPOpMPCNusg77-lk1UgUY57g/edit?usp=sharing).
