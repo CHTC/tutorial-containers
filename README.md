@@ -263,8 +263,16 @@ If everything works correctly, once the command completes there should be a new
 While still in the interactive job (and assuming there is a `container.sif` file),
 run the following command:
 
+**HTC**
+
 ```
 apptainer shell -e container.sif
+```
+
+**HPC**
+
+```
+apptainer shell --bind $PWD/../ -e container.sif
 ```
 
 You'll see your prompt change from `[yourNetID@hostname ~]$ ` to `Apptainer> `.
